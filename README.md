@@ -12,7 +12,7 @@ Climate and land use change are dramatically altering the frequency, intensity, 
 
 ### data
 
- * [data](./data): Folder containing unmarked multiseason data frame with anonymized encounter histories (`anonymized_umf.rds`)
+ * [data](./data): Folder containing unmarked multiseason data frame with anonymized encounter histories (`data/anonymized_umf.rds`)
 
 ### code
 
