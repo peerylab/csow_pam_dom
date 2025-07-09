@@ -17,4 +17,4 @@ Climate and land use change are dramatically altering the frequency, intensity, 
 ### code
 
  * [01-dynamic_occupancy_model.R](01-dynamic_occupancy_model.R): Fit the dynamic occupancy model with the `ubms` package
- * [02-model_data_summaries](02-model_data_summaries): Create figures and model summaries for the main manuscript and appendix
+ * [02-model_data_summaries.R](02-model_data_summaries.R): Create figures and model summaries for the main manuscript and appendix
